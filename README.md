@@ -84,6 +84,6 @@
 
 ###
 
-<h4 align="left">in the end if you want some details about this game ask me.</h4>
+<h4 align="left">in the end if you want some details about this prject ask me.</h4>
 
 ###
