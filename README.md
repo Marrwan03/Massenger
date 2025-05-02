@@ -1,4 +1,4 @@
-<h1 align="center">Massenger</h1>
+<h1 align="center">Messenger</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Massenger project, it's simple project to Send and receive messages using three-tier architecture.</h4>
+<h4 align="left">Messenger project, it's simple project to Send and receive messages using three-tier architecture.</h4>
 
 ###
 
