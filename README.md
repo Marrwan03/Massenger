@@ -1,8 +1,8 @@
-<h1 align="center">Messenger</h1>
+<h1 align="center">📝Messenger</h1>
 
 ###
 
-<h2 align="left">Elevator Pitch:</h2>
+<h2 align="left">👀Elevator Pitch:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">The goal and the problem it solves:</h2>
+<h2 align="left">🎯The goal and the problem it solves:</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">Target group:</h2>
+<h2 align="left">📢Target group:</h2>
 
 ###
 
@@ -26,41 +26,41 @@
 
 ###
 
-<h2 align="left">Features:</h2>
+<h2 align="left">🛠️Features:</h2>
 
 ###
 
-<h4 align="left">1- 3-Tier(Presentation, Businesse, DataAccess) Login.</h4>
+<h4 align="left">1️⃣ 3-Tier(Presentation, Businesse, DataAccess) Login.</h4>
 
 ###
 
-<h4 align="left">2- Account info.</h4>
+<h4 align="left">2️⃣ Account info.</h4>
 
 ###
 
-<h4 align="left">3- Messages.</h4>
+<h4 align="left">3️⃣ Messages.</h4>
 
 ###
 
-<h4 align="left">4- People(It has CRUD OP)</h4>
+<h4 align="left">4️⃣ People(It has CRUD OP)</h4>
 
 ###
 
-<p align="left">5- Your messages.</p>
+<p align="left">5️⃣ Your messages.</p>
 
 ###
 
-<h4 align="left">6- The tables in sql were{Person, Messages, Countries, Block}.</h4>
+<h4 align="left">6️⃣ The tables in sql were{Person, Messages, Countries, Block}.</h4>
 
 ###
 
-<h4 align="left">7- library has some classes like{Text processing, Color Controls, etc...}.</h4>
+<h4 align="left">7️⃣ library has some classes like{Text processing, Color Controls, etc...}.</h4>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Techniques and tools used:</h2>
+<h2 align="left">🧰Techniques and tools used:</h2>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<h2 align="left">Challenges and how to overcome them:</h2>
+<h2 align="left">🧱Challenges and how to overcome them:</h2>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h2 align="left">Video About Project:</h2>
+<h2 align="left">🎥Video About Project:</h2>
 
 ###
 
@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<h2 align="left">End message:</h2>
+<h2 align="left">✉️End message:</h2>
 
 ###
 
